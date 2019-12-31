@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SaveSound</string>
+    <string name="nav_item1">Stop</string>
+    <string name="stop">Stop!</string>
+    <string name="startTime">00:00:00</string>
+    <string name="start">Start!</string>
+    <string name="saveAs">Сохранить как…</string>
+    <string name="enterName">Введите имя</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+</resources>
